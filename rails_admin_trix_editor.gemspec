@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = RailsAdminTrixEditor::VERSION
   s.authors     = ["Antonio Molinari"]
   s.email       = ["molinari@incode.it"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of RailsAdminTrixEditor."
-  s.description = "TODO: Description of RailsAdminTrixEditor."
+  s.homepage    = "https://github.com/magnum/rails_admin_trix_editor"
+  s.summary     = "trix editor support for rails_admin"
+  s.description = "add support for trix editor to rails_admin, https://github.com/basecamp/trix"
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
